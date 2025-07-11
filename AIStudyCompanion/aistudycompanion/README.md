@@ -91,6 +91,12 @@ AI Study Companion web application with chatbot functionality, conversation hist
 - **Context-Aware Responses**: AI answers based on your specific materials
 - **Confidence Scoring**: See how confident the AI is in its responses
 
+## AutoGen Library
+
+This project uses the [AutoGen](https://github.com/microsoft/autogen) library to enable multi-agent AI orchestration for subject-specific tutoring.
+
+AutoGen is an open-source framework for building applications with multiple AI agents that can collaborate, coordinate, and solve complex tasks together. In this project, AutoGen powers the creation and management of specialized agents for different subjects, allowing them to work together to provide accurate and context-aware educational assistance.
+
 ## Technical Details
 
 ### Architecture
